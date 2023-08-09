@@ -7,3 +7,5 @@ Link:
 Planilha que recebe os dados fornecidos:
 https://docs.google.com/spreadsheets/d/14Uw5s8ApDy-or1AfbHDTmNuIzhCuL2gB_nuJqXvK0ao/edit#gid=0
 
+
+![leadingpage](https://github.com/IagoNeres55/Leading_Page_EscolaDNC/assets/109632131/5b86a058-3b3e-4e29-8caa-0dd75275f1b4)
