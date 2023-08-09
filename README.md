@@ -9,3 +9,7 @@ https://docs.google.com/spreadsheets/d/14Uw5s8ApDy-or1AfbHDTmNuIzhCuL2gB_nuJqXvK
 
 
 ![leadingpage](https://github.com/IagoNeres55/Leading_Page_EscolaDNC/assets/109632131/5b86a058-3b3e-4e29-8caa-0dd75275f1b4)
+
+
+Salvando dados na planilha
+![image](https://github.com/IagoNeres55/Leading_Page_EscolaDNC/assets/109632131/e4bd067c-5088-408e-b518-83e860ee31c7)
