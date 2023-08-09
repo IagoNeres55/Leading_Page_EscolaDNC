@@ -12,4 +12,5 @@ https://docs.google.com/spreadsheets/d/14Uw5s8ApDy-or1AfbHDTmNuIzhCuL2gB_nuJqXvK
 
 
 Salvando dados na planilha
+
 ![image](https://github.com/IagoNeres55/Leading_Page_EscolaDNC/assets/109632131/e4bd067c-5088-408e-b518-83e860ee31c7)
